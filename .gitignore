@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & model artifacts (large / user-specific, not tracked)
+Data/
+Models/
+Results/
+*.pkl
+*.pth
+*.pt
+*.csv
+
+# OS
+.DS_Store
