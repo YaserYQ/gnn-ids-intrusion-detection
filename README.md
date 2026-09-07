@@ -55,4 +55,3 @@ Notebooks 2–6 mount Google Drive and reference this path directly, so update `
 ## Notes
 
 - Notebooks are kept exactly as exported from Colab (including original cell outputs, execution counts, and Colab widget metadata) for reference/reproducibility.
-- `01_Data_Preprocessing` was exported without a `.ipynb` extension by Colab; it is a standard Jupyter notebook and can be opened the same way as the others (add the extension locally if your tooling requires it).
